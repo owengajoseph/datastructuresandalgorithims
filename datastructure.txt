@@ -1,0 +1,18 @@
+#### INTRODUCTION TO DATA STURCTURES AND ALGORITHIMS##
+*data sturcture is inside the main memory
+*when you are pulling data from the storage to the main memory you need datastructures
+* data can  (big data)  be categorised into, two legacydata and operational data
+
+### STATIC VS DYNAMIC MEMORY ALLOCATION
+*memory is divided into smaller addressable units called bytes
+*the entire memory is not used a single memory but is divided into units called a SEGMENT
+which is usually 64kb 
+
+###HOW A PROGRAM USES MAIN MEMORY###
+*The program uses the memory by dividing it into three section called the stack,heap and the code segment.
+*When a program is run it is palced first on the code section.once it is loded the cpu will start executing the program.
+*where the variable are loaded which are defined inside a program or a function is  called the stack frame and activation record.
+*Static memory allocation refers to a method of allocating memory for variables at compile time.
+
+
+
