@@ -1,0 +1,14 @@
+##ADT##
+
+##DATA TYPE##
+*Rperesentation of data
+*operation of data
+
+OPERATIONS
+*add(elements)/append(elements)
+*add(endexelement)insert(indexelement)
+*remove(index)
+*set(indexelement)/replace(indexelement)
+*get(index)
+*search(key)/contaion(key)
+*sort()  

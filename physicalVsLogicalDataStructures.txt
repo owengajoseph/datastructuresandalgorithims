@@ -1,0 +1,23 @@
+##PHYSICAL##
+1) arry 
+2) linkedlist
+
+*use array when you have fixed value you can insert
+*arry  can be created in the heap and the stack
+
+
+*linkedlist can only be created in the heap 
+
+*They are called PHYSICAL because they define how data is arranged in memory.
+
+##LOGICAL DATASTRUCTRUE##
+*stack/lineardatastructre
+*queues/lineardatastructre
+*hashtables/tablure or lineardatastructre
+*graph/nonlineardatastructre
+*tress /nonlineardatastructre
+
+NOTE:Logical datastructures are implimented use the physical datastructures.
+
+
+

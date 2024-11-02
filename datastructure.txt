@@ -14,5 +14,8 @@ which is usually 64kb
 *where the variable are loaded which are defined inside a program or a function is  called the stack frame and activation record.
 *Static memory allocation refers to a method of allocating memory for variables at compile time.
 
-
-
+##HEAP##
+*heap is unorganized
+*heap memory should be treated as a resource
+*program cannot access heap memory directly
+*programs access memory with the use of a pointer
