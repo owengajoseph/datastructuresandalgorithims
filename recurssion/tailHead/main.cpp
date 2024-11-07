@@ -1,5 +1,12 @@
 // Head Recursion
-
+/// TYPES OF RECURSSION
+/*
+*tail
+*head
+*tree
+*indirect
+*nested
+*/
 #include <iostream>
 
 void fun(int n)
@@ -41,3 +48,4 @@ int main()
 
 
 
+// any recurssion can be writen as a loop and vise veser
